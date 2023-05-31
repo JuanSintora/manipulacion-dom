@@ -13,3 +13,4 @@ function boton(event) {
     const sum = (Number(input1.value) + Number(input2.value))
     result.innerText = "Resultado: " + sum
 };
+//hola
